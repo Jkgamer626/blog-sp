@@ -11,3 +11,5 @@ Here's an opossum!
 
 
 <img src="/blog-sp/img/oppossum.jpg"
+
+[Oppossum image from WP](https://en.wikipedia.org/wiki/Opossum#/media/File:Opossum_2.jpg)
