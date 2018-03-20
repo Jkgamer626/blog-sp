@@ -2,7 +2,7 @@
 # Site settings
 title: Sun's Blog
 description: Dank and wholesome memes
-baseurl: "/web1-sp" # folder where your site lives, e.g. /web1-sp - needs to start with a slash
+baseurl: "/blog-sp" # folder where your site lives, e.g. /web1-sp - needs to start with a slash
 url: "https://jkgamer626.github.io/blog-sp/" # the base hostname & protocol for your site, e.g. http://hostname.domain.com
 
 # Build settings
